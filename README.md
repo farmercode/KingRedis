@@ -1,5 +1,5 @@
 # KingRedis
-redis C++客户端，需要hiredis库
+redis C++客户端，需要<a href="https://github.com/redis/hiredis" target="_blank">hiredis库</a>.
 
 example下面有个简单的例子文件：<br>
 Linux编译方法：<br>
